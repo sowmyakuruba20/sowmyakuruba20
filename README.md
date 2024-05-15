@@ -72,3 +72,8 @@ Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/so
 ### 💬 What People Say
 - "Sowmya is a great technical person. She understands technology and knows how to go about using technology to solve business problems. Its very easy to work with her - once you give the requirements and/or tasks to be done, you can be rest assured that it would be done in time and with great quality. Besides work, her attitude is really good. She has a very soft and calming personality.
 It was a pleasure working with her. I would have her in my team any day. No questions asked." - Hemanth Agarwal, Co-Founder@Abyeti
+
+
+- [Machine Learning Project](https://github.com/sowmyakuruba20/ml-project) - `Python`, `scikit-learn`, `Pandas`
+- [Web Development Project](https://github.com/sowmyakuruba20/web-dev-project) - `JavaScript`, `React`, `Node.js`
+
