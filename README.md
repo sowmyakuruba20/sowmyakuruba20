@@ -7,7 +7,18 @@
 🔍 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I've spearheaded projects that leverage cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes.
 
 Pronouns: She/Her
+Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) for collaborations.
 
+### 🌱 I'm currently learning
+- **Text-to-Video Generation**: Utilizing Stable Diffusion to create dynamic video content directly from text descriptions. This involves understanding and manipulating generative models to enhance media production capabilities.
+- **Exploring Large Language Model (LLM) Based Projects**: Delving into the capabilities of large language models to drive innovations in various fields including natural language processing, content generation, and more sophisticated AI-driven applications.
+- Advanced techniques in Deep Learning with TensorFlow and Keras.
+- 
+### 🔨 Recent Updates
+- Named Enitity Recognision on Medical transcripts - April 2024.
+- News Summarizationa nd Classification using NLP - MAy 2024.
+- Wepon detection sytsem using Obejct detection models - May 2024
+  
 
 ---
 
@@ -53,24 +64,19 @@ Pronouns: She/Her
 ### 📺 Featured Video from NODES 2023 Conference
 [![NODES2023](https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg)](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
 
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20My%20Feature-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Sowmya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmyakuruba20&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+### 💬 What People Say
+- "Sowmya is a great technical person. She understands technology and knows how to go about using technology to solve business problems. Its very easy to work with her - once you give the requirements and/or tasks to be done, you can be rest assured that it would be done in time and with great quality. Besides work, her attitude is really good. She has a very soft and calming personality.
+It was a pleasure working with her. I would have her in my team any day. No questions asked." - Hemanth Agarwal, Co-Founder@Abyeti
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sowmyakuruba20.sowmyakuruba20)
 
