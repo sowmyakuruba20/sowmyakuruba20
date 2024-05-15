@@ -1,13 +1,14 @@
 # Sowmya Kuruba
 
-**`Aspiring Data Scientist or AI/ML Engineer`**
+**Aspiring Data Scientist and AI/ML Engineer**
 
-👋 Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a strong foundation in software engineering. With over four years of experience in software development and data analysis, I'm currently enhancing my skills through a Master's degree in Data Science at San Jose State University.
+👋 Hi, I'm Sowmya Kuruba 👋, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
 
-🔍 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I've spearheaded projects that leverage cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes.
+🔍 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I have led projects that utilize cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes. I am passionate about harnessing the power of data and AI to solve real-world problems, aiming to contribute innovative solutions in technology and business.
 
 Pronouns: She/Her
-Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) for collaborations.
+
+Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) or reach out via email at [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) for collaborations.
 
 ### 🌱 I'm currently learning
 - **Text-to-Video Generation**: Utilizing Stable Diffusion to create dynamic video content directly from text descriptions. This involves understanding and manipulating generative models to enhance media production capabilities.
@@ -15,11 +16,9 @@ Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/so
 - Advanced techniques in Deep Learning with TensorFlow and Keras.
 - 
 ### 🔨 Recent Updates
-- Named Enitity Recognision on Medical transcripts - April 2024.
-- News Summarizationa nd Classification using NLP - MAy 2024.
-- Wepon detection sytsem using Obejct detection models - May 2024
-  
-
+- News Summarization and Classification using NLP - May 2024.
+- Weapon Detection System using Object Detection Models - May 2024.
+- Named Entity Recognition on Medical Transcripts - April 2024.
 ---
 
 ### 🧰 Languages and Tools
