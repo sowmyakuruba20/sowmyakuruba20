@@ -3,23 +3,9 @@
 **Aspiring Data Scientist and AI/ML Engineer**
 
 👋 Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
-
 🔍 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I have led projects that utilize cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes. I am passionate about harnessing the power of data and AI to solve real-world problems, aiming to contribute innovative solutions in technology and business.
-
 Pronouns: She/Her
-
 Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) or reach out via email at [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) for collaborations.
-
-### 🌱 I'm currently learning
-- **Text-to-Video Generation**: Utilizing Stable Diffusion to create dynamic video content directly from text descriptions. This involves understanding and manipulating generative models to enhance media production capabilities.
-- **Exploring Large Language Model (LLM) Based Projects**: Delving into the capabilities of large language models to drive innovations in various fields including natural language processing, content generation, and more sophisticated AI-driven applications.
-- Advanced techniques in Deep Learning with TensorFlow and Keras.
-- 
-### 🔨 Recent Updates
-- News Summarization and Classification using NLP - May 2024.
-- Weapon Detection System using Object Detection Models - May 2024.
-- Named Entity Recognition on Medical Transcripts - April 2024.
----
 
 ### 🧰 Languages and Tools
 
@@ -58,6 +44,17 @@ Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/so
 [![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) 
 <br />
 
+
+### 🌱 I'm currently learning
+- **Text-to-Video Generation**: Utilizing Stable Diffusion to create dynamic video content directly from text descriptions. This involves understanding and manipulating generative models to enhance media production capabilities.
+- **Exploring Large Language Model (LLM) Based Projects**: Delving into the capabilities of large language models to drive innovations in various fields including natural language processing, content generation, and more sophisticated AI-driven applications.
+- Advanced techniques in Deep Learning with TensorFlow and Keras.
+
+### 🔨 Recent Updates
+- News Summarization and Classification using NLP - May 2024.
+- Weapon Detection System using Object Detection Models - May 2024.
+- Named Entity Recognition on Medical Transcripts - April 2024.
+---
 ### 📺 Featured Video from NODES 2023 Conference
 [![NODES2023](https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg)](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
 
