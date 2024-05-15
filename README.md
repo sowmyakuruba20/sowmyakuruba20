@@ -65,7 +65,11 @@
 ---
 
 ### 📺 Featured Video from NODES 2023 Conference
-[![NODES2023](https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg)](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36">
+    <img src="https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg" width="240" height="180">
+  </a>
+</p>
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20My%20Feature-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
 
