@@ -1,6 +1,6 @@
 # Sowmya Kuruba
 
-**Aspiring Data Scientist and AI/ML Engineer**
+**`Aspiring Data Scientist and AI/ML Engineer`**
 
 👋 Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
 
