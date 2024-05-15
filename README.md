@@ -8,7 +8,7 @@
 
 `Pronouns: She/Her`
 
-`Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) or reach out via email at [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) for collaborations.`
+`Connect: Feel free to send me a message on` [LinkedIn](https://linkedin.com/in/sowmya-kuruba) `or reach out via email at` [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) `for collaborations.`
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0eW8wd3FhcmdhYmg5cWNpcHk4b2tqZDAzMDg1dGt3dmdtZHNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="240" height="180">
