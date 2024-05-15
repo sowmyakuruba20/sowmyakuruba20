@@ -23,6 +23,7 @@ Pronouns: She/Her
  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)	
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Neo4j](https://img.shields.io/badge/Neo4j-%23008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
   [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
     [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) 
     [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic2syl_NLzAhXCnLMKHaspADoYABAAGgJxbg&ae=2&ohost=www.google.com&cid=CAESQOD2u8Z7ZhKNFpONz_9iR_mHA-reb1xJ7B61DJQ1bmnINBgADdXqt8cLfEyg4CBn0pKXcVMFR816Iq-lIhcFcDw&sig=AOD64_1-t_VuYeOPhR90gq-FuQ4NOtUB3w&q&adurl&ved=2ahUKEwiVwcOl_NLzAhUDZd8KHXujB7gQ0Qx6BAgCEAE&dct=1) 
