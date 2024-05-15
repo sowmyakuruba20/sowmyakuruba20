@@ -53,9 +53,9 @@ Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/so
 - Advanced techniques in Deep Learning with TensorFlow and Keras.
 
 ### 🔨 Recent Updates
-- [News Summarization and Classification using NLP](https://github.com/sowmyakuruba20/ml-project) - ` May 2024`, `Python`, `scikit-learn`, `NLP`, `ML`
-- [Weapon Detection System using Object Detection Models](https://github.com/sowmyakuruba20/ml-project) - ` May 2024`, `Python`, `Tensoflow`, `Faster-RCNN`, `YOLO`
-- [Named Entity Recognition on Medical Transcripts]([https://github.com/sowmyakuruba20/web-dev-project](https://github.com/sowmyakuruba20/NER---Medical-Transcripts)) - `Python`, `NLP`, `Biomedical NER`
+- [News Summarization and Classification using NLP](https://github.com/sowmyakuruba20/DATA240---NewsNuggets-News-Summarization-and-classification-) - ` May 2024`, `Python`, `scikit-learn`, `NLP`, `ML`
+- [Weapon Detection System using Object Detection Models](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection) - ` May 2024`, `Python`, `Tensoflow`, `Faster-RCNN`, `YOLO`
+- [Named Entity Recognition on Medical Transcripts](https://github.com/sowmyakuruba20/NER---Medical-Transcripts) - `Python`, `NLP`, `Biomedical NER`
 ---
 
 ### 📺 Featured Video from NODES 2023 Conference
