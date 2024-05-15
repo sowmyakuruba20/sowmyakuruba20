@@ -9,7 +9,8 @@
 Pronouns: She/Her
 
 Connect: Feel free to send me a message on [LinkedIn](https://linkedin.com/in/sowmya-kuruba) or reach out via email at [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) for collaborations.
-![Data Science](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0eW8wd3FhcmdhYmg5cWNpcHk4b2tqZDAzMDg1dGt3dmdtZHNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)
+
 
 
 ### 🧰 Languages and Tools
