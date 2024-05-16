@@ -75,8 +75,9 @@
     <img src="https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg" width="240" height="180">
   </a>
 </p>
-{[![NODES 2023](https://ytcards.demolab.com/?id=8ZmOzmQ_xq8&title=Your+Video+Title&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=00 "Video Title")](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)}
+{[![NODES2023: Improving Bay Area Rapid Transit](https://ytcards.demolab.com/?id=8ZmOzmQ_xq8&title=NODES2023%3A+Improving+Bay+Area+Rapid+Transit&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=00 "NODES2023: Improving Bay Area Rapid Transit")](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)}
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Watch%20My%20Feature-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36) -->
+
 
 
 
