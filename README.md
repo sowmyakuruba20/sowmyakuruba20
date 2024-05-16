@@ -2,13 +2,18 @@
 
 **`Aspiring Data Scientist and AI/ML Engineer`**
 
-👋 Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
 
 🔍 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I have led projects that utilize cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes. I am passionate about harnessing the power of data and AI to solve real-world problems, aiming to contribute innovative solutions in technology and business.
 
 `Pronouns: She/Her`
-
-`Connect: Feel free to send me a message on` [LinkedIn](https://linkedin.com/in/sowmya-kuruba) `or reach out via email at` [sowmya.kuruba@sjsu.edu](mailto:sowmya.kuruba@sjsu.edu) `for collaborations.`
+<div id="badges">
+    <p align="left">
+        <a href="https://www.linkedin.com/in/sowmya-kuruba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+        <a href="sowmya.kuruba@sjsu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+        </a>
+    </p>
+</div>`
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0eW8wd3FhcmdhYmg5cWNpcHk4b2tqZDAzMDg1dGt3dmdtZHNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="240" height="180">
