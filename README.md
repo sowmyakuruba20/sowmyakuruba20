@@ -71,17 +71,8 @@
 
 ### 📺 Featured Video from NODES 2023 Conference
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36">
-    <img src="https://img.youtube.com/vi/8ZmOzmQ_xq8/hqdefault.jpg" width="240" height="180">
-  </a>
-</p>
-
-
 [![NODES2023: Improving Bay Area Rapid Transit](https://ytcards.demolab.com/?id=8ZmOzmQ_xq8&title=NODES2023%3A+Improving+Bay+Area+Rapid+Transit&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=00 "NODES2023: Improving Bay Area Rapid Transit")](https://www.youtube.com/watch?v=8ZmOzmQ_xq8&list=PL9Hl4pk2FsvUu4hzyhWed8Avu5nSUXYrb&index=36)
-
-
-
-
+</p>
 
 ### 📊 Stats
 
