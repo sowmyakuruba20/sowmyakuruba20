@@ -1,8 +1,9 @@
 # Sowmya Kuruba
 
-**`Aspiring Data Scientist and AI/ML Engineer`**
+**`👩🏻‍💻 Aspiring Data Scientist and AI/ML Engineer`**
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis, I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sowmya Kuruba, an aspiring Data Scientist and AI/ML Engineer with a solid foundation in software engineering. With over four years of experience in software development and data analysis.
+👩🏻‍🎓 I am currently advancing my skills through a Master’s degree in Data Science at San Jose State University.
 
 My professional journey includes impactful roles at Walmart Global Tech and Abyeti Technologies, where I have led projects that utilize cutting-edge technologies in data warehousing, machine learning, and business intelligence to drive significant business outcomes. I am passionate about harnessing the power of data and AI to solve real-world problems, aiming to contribute innovative solutions in technology and business.
 
