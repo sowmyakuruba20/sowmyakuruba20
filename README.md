@@ -42,11 +42,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 <br />
 
-### 🌱 I'm currently learning
-- **Text-to-Video Generation**: Utilizing Stable Diffusion to create dynamic video content directly from text descriptions. This involves understanding and manipulating generative models to enhance media production capabilities.
-- **Exploring Large Language Model (LLM) Based Projects**: Delving into the capabilities of large language models to drive innovations in various fields including natural language processing, content generation, and more sophisticated AI-driven applications.
-- Advanced techniques in Deep Learning with TensorFlow and Keras.
-
 ### 🔨 Recent Updates
 - [Porfolio Stock Analyst](https://github.com/sowmyakuruba20/NVIDIAGenAI_Personal_Finance_Analyst_ = 'June 2024', 'NVIDIA', 'Langchain', 'Llama3'
 - [News Summarization and Classification using NLP](https://github.com/sowmyakuruba20/DATA240---NewsNuggets-News-Summarization-and-classification-) - ` May 2024`, `Python`, `scikit-learn`, `NLP`, `ML`
