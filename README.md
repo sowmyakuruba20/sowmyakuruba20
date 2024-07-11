@@ -43,7 +43,7 @@
 <br />
 
 ### 🔨 Recent Updates
-- [Porfolio Stock Analyst](https://github.com/sowmyakuruba20/NVIDIAGenAI_Personal_Finance_Analyst) - 'June 2024', 'NVIDIA', 'Langchain', 'Llama3'
+- [Porfolio Stock Analyst](https://github.com/sowmyakuruba20/NVIDIAGenAI_Personal_Finance_Analyst) - `June 2024`, `NVIDIA`, `Langchain`, `Llama3`
 - [News Summarization and Classification using NLP](https://github.com/sowmyakuruba20/DATA240---NewsNuggets-News-Summarization-and-classification-) - ` May 2024`, `Python`, `scikit-learn`, `NLP`, `ML`
 - [Weapon Detection System using Object Detection Models](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection) - ` May 2024`, `Python`, `Tensoflow`, `Faster-RCNN`, `YOLO`
 - [Named Entity Recognition on Medical Transcripts](https://github.com/sowmyakuruba20/NER---Medical-Transcripts) - `Python`, `NLP`, `Biomedical NER`
