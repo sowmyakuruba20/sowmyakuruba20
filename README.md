@@ -11,7 +11,7 @@
         <a href="sowmya.kuruba@sjsu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
         </a>
     </p>
-</div>`
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc0eW8wd3FhcmdhYmg5cWNpcHk4b2tqZDAzMDg1dGt3dmdtZHNnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="240" height="180">
