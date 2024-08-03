@@ -2,7 +2,7 @@
 
 **`👩🏻‍💻 Data Scientist and AI/ML Engineer`**
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sowmya, a Data Scientist and AI/ML Engineer with over four years of experience in software development and data science.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sowmya, a Data Scientist and AI/ML Engineer with over four years of experience in software development and data analytics.
 
 `Pronouns: She/Her`
 <div id="badges">
